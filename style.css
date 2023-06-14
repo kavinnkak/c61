@@ -1,0 +1,18 @@
+#apps {
+    text-align: center;
+    background-color: chocolate;
+}
+#games {
+    text-align: center;
+
+    background-color: aqua;  
+}
+#chat {
+    background-color: wheat;  
+}
+.line {
+    height:6px;
+    background-color: black;
+    width: 70px;
+    margin: 8px auto;
+}
